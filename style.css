@@ -44,7 +44,9 @@
   }
   
   h1{
+    font-size: 3em;
     text-align: center;
+    height: 25vh;
   /*   padding-top: 25%; */
   }
   
