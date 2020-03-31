@@ -140,6 +140,17 @@
   width: 30vw;
   object-fit: cover;
   }
+
+  .btn{
+    display: inline-block;
+    padding: 1rem 1rem;
+  }
+
+  .btn-show-all{
+    font-size: 20px;
+    background: #517664;
+    transition: background 0.3s ease-out;
+  }
   
   #contact{
     /* scroll-behavior: smooth; */
